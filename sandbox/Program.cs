@@ -4,6 +4,7 @@ using sandbox;
 Console.WriteLine("SandBox");
 
 //Refleaction.Demo();
-MyExpression.ShowResult();
+//MyExpression.ShowResult();
+Yield.ShowResult();
 
 Console.ReadLine();
