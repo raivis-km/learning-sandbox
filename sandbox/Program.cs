@@ -3,6 +3,7 @@ using sandbox;
 
 Console.WriteLine("SandBox");
 
-Refleaction.Demo();
+//Refleaction.Demo();
+MyExpression.ShowResult();
 
 Console.ReadLine();
